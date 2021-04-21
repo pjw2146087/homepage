@@ -20,22 +20,26 @@ order: 3
 <div class="a2">
   <strong>中国农业大学,计算机科学与技术,导师:翟卫欣</strong>
 </div>
+<br/>
 <div class="b1">
   <strong>2018.09-2021.06</strong>
 </div>
 <div class="b2">
   <strong>昆明理工大学,软件工程,导师:钱谦</strong>
 </div>
+<br/>
 <div class="c1">
   <strong>2016.11-2017.08</strong>
 </div>
 <div class="c2">
   <strong>北京国电通网络技术有限公司,网络工程师</strong>
 </div>
+<br/>
 <div class="d1">
   <strong>2012.09-2016.06</strong>
 </div>
 <div class="d2">
   <strong>济南大学,网络工程</strong>
 </div>
+<br/>
 
