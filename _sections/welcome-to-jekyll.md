@@ -20,3 +20,6 @@ order: 2
 </div>
 <br><br/>
 <p>潘家文，中国农业大学信息与电气工程学院，博士生。主要从事无人驾驶,轨迹大数据,计算智能,视觉认知等方向的研究。</p><a href="downloadpdf.php" class="button scrolly" download="pan-resume.pdf">
+<footer>
+  <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+</footer>
