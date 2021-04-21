@@ -6,13 +6,13 @@ order: 3
 
 <style>
   .a1{float:left;width:30%;border:1px solid # F00;}
-  .a2{float:right;width:70%;border:1px solid # F00;textAlign="start"}
+  .a2{float:right;width:70%;border:1px solid # F00;textAlign=left}
   .b1{float:left;width:30%;border:1px solid # F00}
   .b2{float:right;width:70%;border:1px solid # F00}
   .c1{float:left;width:30%;border:1px solid # F00}
   .c2{float:right;width:70%;border:1px solid # F00}
   .d1{float:left;width:30%;border:1px solid # F00}
-  .d2{float:right;width:70%;border:1px solid # F00;text-align:"start"}
+  .d2{float:right;width:70%;border:1px solid # F00;text-align:left}
 </style>
 <div class="a1">
   <strong><b>2021.09-至今</b></strong>
