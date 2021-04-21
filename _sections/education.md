@@ -5,14 +5,14 @@ order: 3
 ---
 
 <style>
-  .a1{float:left;width:50%;border:1px solid # F00;}
-  .a2{float:right;width:40%;border:1px solid # F00;text-align:left}
-  .b1{float:left;width:50%;border:1px solid # F00;}
-  .b2{float:right;width:40%;border:1px solid # F00;text-align:left}
-  .c1{float:left;width:50%;border:1px solid # F00;}
-  .c2{float:right;width:40%;border:1px solid # F00;text-align:left}
-  .d1{float:left;width:50%;border:1px solid # F00;}
-  .d2{float:right;width:40%;border:1px solid # F00;text-align:left}
+  .a1{float:left;width:40%;border:1px solid # F00;}
+  .a2{float:right;width:45%;border:1px solid # F00;text-align:left}
+  .b1{float:left;width:40%;border:1px solid # F00;}
+  .b2{float:right;width:45%;border:1px solid # F00;text-align:left}
+  .c1{float:left;width:40%;border:1px solid # F00;}
+  .c2{float:right;width:45%;border:1px solid # F00;text-align:left}
+  .d1{float:left;width:40%;border:1px solid # F00;}
+  .d2{float:right;width:45%;border:1px solid # F00;text-align:left}
 </style>
 <div class="a1">
   <strong><b>2021.09-至今</b></strong>
