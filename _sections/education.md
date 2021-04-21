@@ -20,7 +20,7 @@ order: 3
 <div class="a2">
   <strong>中国农业大学,计算机科学与技术,导师:翟卫欣</strong>
 </div>
-<br/>
+<br/><br/>
 <div class="b1">
   <strong>2018.09-2021.06</strong>
 </div>
