@@ -4,8 +4,17 @@ icon: fa-check
 order: 5
 ---
 
-<div class="row">
-  <div class="6u 12u$(mobile)"> <strong>出生日期:</strong></div>
-  <div class="6u$ 12u$(mobile)"> <strong>家乡</strong></div>
+<style>
+  .a{float:left;width:33%;border:1px solid # F00}
+  .b{float:left;width:33%;border:1px solid # F00}
+  .c{float:left;width:33%;border:1px solid # F00}
+</style>
+<div class="a">
+  <strong>出生日期：1994.01.04</strong>
 </div>
-
+<div class="b">
+  <strong>现居地:山东省济南市</strong>
+</div>
+<div class="c">
+  <strong>电话:15588880367</strong>
+</div>
