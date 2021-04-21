@@ -1,7 +1,7 @@
 ---
 title: 基本信息
 icon: fa-check
-order: 5
+order: 1
 ---
 
 <style>
