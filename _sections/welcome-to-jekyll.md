@@ -2,6 +2,7 @@
 title: 基本信息
 icon: fa-check
 order: 2
+hide: true
 ---
 
 <style>
