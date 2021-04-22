@@ -1,6 +1,6 @@
 ---
 title: 个人经历
-icon: fa-check
+icon: fa-envelope
 order: 3
 ---
 
