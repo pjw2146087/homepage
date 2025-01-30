@@ -74,13 +74,13 @@ redirect_from:
 
 - [Qian Qian#,Jiawen Pan,Miao Song,Yong Feng,Yunfa Fu,Keizo Shinomori.Feature Integration is not the whole story of the sequence effects of symbolic cueing[J],Journal of Cognitive Psychology,32(7),645-660.](https://doi.org/10.1080/20445911.2020.1817928),(SSCI(Social Sciences Citation Index),认知计算领域顶刊).
 
-- [Jiawen Pan,Qian Qian#,Yong Feng, Yunfa Fu.Multi-population Genetic Algorithm based on Adaptive Learning Mechanism[C],International Conference on Mechatronics and Intelligent Robotics.],(EI).
+- [Jiawen Pan,Qian Qian#,Yong Feng, Yunfa Fu.Multi-population Genetic Algorithm based on Adaptive Learning Mechanism[C],International Conference on Mechatronics and Intelligent Robotics.](https://doi.org/10.1007/978-981-16-1843-7_38),(EI).
 
 - [Qian Qian#,Yi Deng, Hui Sun, Jiawen Pan.Enhanced Beetle Antennae Search algorithm for Complex and Unbiased Optimization[J],soft computing.](https://doi.org/10.1007/s00500-022-07388-y),(SCI,中国计算机学会CCF论文).
 
 - [李光阳，潘家文,钱谦#，殷继彬，伏云发，冯勇.融合学习机制的多混沌麻雀搜索算法[J].计算机科学与探索.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd8GBZ0kk7GhbkMA5S07zuc-AS-fMNF8jzov2sQv6HqSHVPJp42kh42wp3d6EqzZ6XVa8r19OAVKxoiuu5XaDe_SI0bWzAAKpqs7jzOLbAh6CgrCZAWR323UQNbO7S58Nx2hZwh3NxpmYhJe1GjXMGM8C9Yk2fzSzmwQJj3Qg0M2fH2SsBT2LnK0&uniplatform=NZKPT&language=CHS),(中国计算机学会CCF 中文B类).
 
-- [Bing Han,Daoye Zhu, Chengqi Cheng, Jiawen Pan,Weixin Zhai#.Patterns of Nighttime Crowd Flows in Tourism Cities Based on Taxi Data—Take Haikou Prefecture as an Example[J],Remote Sensing.],(SCI).
+- [Bing Han,Daoye Zhu, Chengqi Cheng, Jiawen Pan,Weixin Zhai#.Patterns of Nighttime Crowd Flows in Tourism Cities Based on Taxi Data—Take Haikou Prefecture as an Example[J],Remote Sensing.](https://doi.org/10.3390/rs14061413),(SCI).
 
 - [Caicong Wu,Dong Li, Xiaoqiang Zhang, Jiawen Pan,Weixin Zhai#.China’s agricultural machinery operation big data system[J],Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2022.107594),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
