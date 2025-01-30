@@ -92,6 +92,8 @@ redirect_from:
 
 - [Y Xiao, G Mo, X Xiong, J Pan, B Hu, C Wu, W Zhai#.DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination,International Journal of Agricultural and Biological Engineering.](https://doi.org/10.25165/j.ijabe.20231603.8187),(SCI,中科院二区,共同第一作者).
 
+- [翟卫欣#,潘家文 等.基于多元振荡黏菌算法的田路分割模型参数优化方法[J],农业工程学报.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd-PVQ7cYBV8lsluUeArfffOzgfmALE33h35IJmHJcdfMu0LbocbQSvxKko5VIdyCcN0_ozGnY3NRJVBARcgvMP4tMI2DVGjMGM_NhkGKqaCRl1Hu0ftR6-HQhKqLCrb72NseK6A-L8a56rDA8X0WMez0Cibo6s1G5uBA0tb9xtIpc63yS-CndvF&uniplatform=NZKPT&language=CHS),(中文EI,卓越期刊).
+
 
 
 
