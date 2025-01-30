@@ -49,9 +49,23 @@ redirect_from:
 
 <div class="badge">CVPR 2016</div> - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<div class='paper-box'>
+  <div class="badge">CVPR 2016</div>  <!-- CVPR 2016 徽章 -->
+  
+  <!-- 论文信息 -->
+  <div class="paper-info">
+    <a href='https://doi.org/10.1016/j.compag.2025.109911' target='_blank'>  
+      Zhai W#, Ni Z, Xu Z, Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.
+    </a>
+    <br>
+    <em>(SCI, 中科院一区, ESI 5%期刊, 影响因子 8.3)</em>
+  </div>
+</div>
+
 - [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
 - [W Zhai#, Z Xu, J Pan*, Z Guo, C Wu,A general image classification model for agricultural machinery trajectory mode recognition,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109629),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
