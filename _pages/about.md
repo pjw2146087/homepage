@@ -82,7 +82,12 @@ redirect_from:
 
 - [W Zhai#, Z Xu, J Liu, X Xiong, J Pan*, SO Chung, D Bochtis, C Wu.Feature deformation network with multi-range feature enhancement for agricultural machinery operation mode identification,International Journal of Agricultural and Biological Engineering.](https://doi.org/10.1007/s00500-024-09869-8),(SCI,中科院二区).
 
+- [Qian Q#, Luo W, Pan J*, et al. Dual-path differential perturbation sand cat swarm optimization algorithm integrated with escape mechanism[J]. Review of Scientific Instruments, 2024, 95(11).](https://doi.org/10.1063/5.0222940),(SCI).
+
+- [Q Qian#, J Pan, M Song, Y Li, J Yin, Y Feng, Y Fu, Generalization of sequence effects from conflict to cueing tasks,Psychological Research.](https://doi.org/10.1007/s00426-024-02014-y),(SSCI).
+
 - [Zhai W#, Kuang X, Cheng X, Pan J* et al. Reconstruction of missing points in agricultural machinery trajectory based on bidirectional adjacent information[J]. Computers and Electronics in Agriculture, 2024, 220: 108920.](https://doi.org/10.1016/j.compag.2024.108920),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+
 
 - [W Zhai#, X Xiong, G Mo, Y Xiao, C Wu, Z Xu, J Pan*.A Bagging-SVM field-road trajectory classification model based on feature enhancement,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.108635),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
@@ -93,6 +98,28 @@ redirect_from:
 - [Y Xiao, G Mo, X Xiong, J Pan, B Hu, C Wu, W Zhai#.DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination,International Journal of Agricultural and Biological Engineering.](https://doi.org/10.25165/j.ijabe.20231603.8187),(SCI,中科院二区,共同第一作者).
 
 - [翟卫欣#,潘家文 等.基于多元振荡黏菌算法的田路分割模型参数优化方法[J],农业工程学报.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd-PVQ7cYBV8lsluUeArfffOzgfmALE33h35IJmHJcdfMu0LbocbQSvxKko5VIdyCcN0_ozGnY3NRJVBARcgvMP4tMI2DVGjMGM_NhkGKqaCRl1Hu0ftR6-HQhKqLCrb72NseK6A-L8a56rDA8X0WMez0Cibo6s1G5uBA0tb9xtIpc63yS-CndvF&uniplatform=NZKPT&language=CHS),(中文EI,卓越期刊).
+
+
+- [Tianyu Yu,Jiawen Pan*,Qian Qian#.Improved slime mould algorithm by perfecting bionic-based mechanisms[J].International Journal of Bio-Inspired Computation.](https://doi.org/10.1504/IJBIC.2023.133504),(SCI,中国自动化学会 CAA A类).
+
+- [潘家文,钱谦#,伏云发,冯勇.模糊自适应并行遗传算法在函数优化中的应用[J],小型微型计算机系统.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd8B3g1ULTr6G_hsVj3WuZkWpxp5aWujA2qsE8mXNANibnEfvabS-RGHwRTTwtTwb_8M6Wcalj-stPdLZ7A6MPcP41lTBASF0-_RY_RWSqupT5nmbeEiEn54V81NxiebNQCQxW46ICzJNxaJ6WiBXs_bDC4ZA4vqtDwDBvTnTFuQK-EuRoYclkd7&uniplatform=NZKPT&language=CHS),(中国计算机学会CCF 中文B类).
+
+- [潘家文,钱谦#,伏云发,冯勇.最优权动态控制学习机制的多种群遗传算法[J],计算机科学与探索.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd8NpUrbEDsYYf9jHN5TiPPA1AMdfdrvaqDomZKANeoFWtQ5jHanwgpU8AgCtYJue11Zovylm6q1-t6pVxkaW94N1vMsYTMVA1u-vk8U0ThPhEYVqTqudXGV4ZcNgdVU1CaL567TKPycc_OXYSOKdoDT1dvJBHS7e7wdlHOy0juarqKZ4_taVqT2&uniplatform=NZKPT&language=CHS),(中国计算机学会CCF 中文B类).
+
+- [Qian Qian#,Jiawen Pan,Miao Song,Yong Feng,Yunfa Fu,Keizo Shinomori.Feature Integration is not the whole story of the sequence effects of symbolic cueing[J],Journal of Cognitive Psychology,32(7),645-660.](https://doi.org/10.1080/20445911.2020.1817928),(SSCI(Social Sciences Citation Index),认知计算领域顶刊).
+
+- [Jiawen Pan,Qian Qian#,Yong Feng, Yunfa Fu.Multi-population Genetic Algorithm based on Adaptive Learning Mechanism[C],International Conference on Mechatronics and Intelligent Robotics.],(EI).
+
+- [Qian Qian#,Yi Deng, Hui Sun, Jiawen Pan.Enhanced Beetle Antennae Search algorithm for Complex and Unbiased Optimization[J],soft computing.](https://doi.org/10.1007/s00500-022-07388-y),(SCI,中国计算机学会CCF论文).
+
+- [李光阳，潘家文,钱谦#，殷继彬，伏云发，冯勇.融合学习机制的多混沌麻雀搜索算法[J].计算机科学与探索.](https://kns.cnki.net/kcms2/article/abstract?v=xDLjIU9qqd8GBZ0kk7GhbkMA5S07zuc-AS-fMNF8jzov2sQv6HqSHVPJp42kh42wp3d6EqzZ6XVa8r19OAVKxoiuu5XaDe_SI0bWzAAKpqs7jzOLbAh6CgrCZAWR323UQNbO7S58Nx2hZwh3NxpmYhJe1GjXMGM8C9Yk2fzSzmwQJj3Qg0M2fH2SsBT2LnK0&uniplatform=NZKPT&language=CHS),(中国计算机学会CCF 中文B类).
+
+- [Bing Han,Daoye Zhu, Chengqi Cheng, Jiawen Pan,Weixin Zhai#.Patterns of Nighttime Crowd Flows in Tourism Cities Based on Taxi Data—Take Haikou Prefecture as an Example[J],Remote Sensing.],(SCI).
+
+- [Caicong Wu,Dong Li, Xiaoqiang Zhang, Jiawen Pan,Weixin Zhai#.China’s agricultural machinery operation big data system[J],Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2022.107594),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+
+
+
 
 
 
