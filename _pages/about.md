@@ -7,16 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-    .badge {
-        display: inline-block; /* 让它和文本同行 */
-        background-color: #ffcc00; /* 设置徽章背景色 */
-        padding: 2px 8px;
-        border-radius: 5px;
-        font-weight: bold;
-        margin-right: 8px; /* 徽章和文本之间的间距 */
-    }
-</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -45,17 +36,16 @@ redirect_from:
 
 # 📝 Publications 
 目前以第一作者/通讯作者身份发表了20+篇论文。
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-item">
+  <div class="badge">CVPR 2016</div>
+  <div class="paper-content">
+    <a href="https://github.com" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, 
+    A, B, C, <strong>CVPR 2020</strong>
+  </div>
 </div>
-</div> -->
+
 
 - <div class="badge">CVPR 2016</div> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
