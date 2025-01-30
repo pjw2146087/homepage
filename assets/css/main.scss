@@ -96,14 +96,31 @@ h1:before, .anchor:before {
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
 }
-
+.paper-item {
+    display: flex;
+    align-items: start;
+    gap: 10px; /* 控制徽章与内容的间距 */
+    position: relative;
+  }
+  
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    position: relative;
+    margin-top: 0;
+    margin-left: 0;
     color: white;
     background-color: #00369f;
     font-size: .8em;
 }
+
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     position: absolute;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
