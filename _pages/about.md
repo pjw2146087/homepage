@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我的研究兴趣包括计算机视觉,智能决策,认知计算。我目前以第一作者/通讯作者身份发表了20+篇论文。
+我的研究兴趣包括计算机视觉,智能决策,认知计算。
 
 智能决策：面向高维无偏、无人机/农机路径规划、无线传感器网络和神经网络参数配置等任务的优化方法研究，主要涉及差分进化算法，协方差演化策略，深度强化学习等研究.
 
@@ -25,15 +25,16 @@ redirect_from:
 
 
 # 📖 教育背景
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024-2025*, 比利时根特大学, 国家公派联合培养博士生. 
+- *2021-2025*, 中国农业大学, 博士研究生, 计算机科学与技术.
+- *2018-2021*, 昆明理工大学, 硕士研究生, 软件工程.
+- *2016-2017*, 北京国电通网络技术有限公司,网络工程师.
+- *2012-2016*, 济南大学, 学士, 网络工程.
 
-# 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News -->
 
 # 📝 Publications 
-
+目前以第一作者/通讯作者身份发表了20+篇论文。（带#为导师，*为本人通讯）
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,6 +49,9 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+
+- [W Zhai#, Z Xu, J Pan*, Z Guo, C Wu,A general image classification model for agricultural machinery trajectory mode recognition,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109629),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
