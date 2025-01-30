@@ -35,7 +35,7 @@ redirect_from:
 <!-- # 🔥 News -->
 
 # 📝 Publications 
-目前以第一作者/通讯作者身份发表了20+篇论文。
+目前以第一作者/通讯作者身份发表了20+篇论文。（带#为导师，*为本人通讯）
 
 
 <div class="paper-item">
@@ -43,6 +43,13 @@ redirect_from:
   <div class="paper-content">
     <a href="https://github.com" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet</a>, 
     A, B, C, <strong>CVPR 2020</strong>
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="badge">CVPR 2016</div>
+  <div class="content">
+    - [Lorem ipsum...](https://github.com), A, B, C, **CVPR 2020**
   </div>
 </div>
 
