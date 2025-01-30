@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/homepage/#about-me"
+
+  # - title: "News"
+  #   url: "/homepage/#-news"
+
+  - title: "教育背景"
+    url: "/homepage/#-教育背景"
+
+  - title: "学术研究"
+    url: "/homepage/#-学术研究"
+
+  - title: "荣誉奖项"
+    url: "/homepage/#-荣誉奖项"
+
+
+
+  # - title: "Invited Talks"
+  #   url: "/homepage/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/homepage/#-internships"
