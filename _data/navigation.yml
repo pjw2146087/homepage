@@ -7,13 +7,13 @@ main:
   #   url: "/homepage/#-news"
 
   - title: "教育背景"
-    url: "/homepage/#-educations"
+    url: "/homepage/#-教育背景"
 
   - title: "学术研究"
-    url: "/homepage/#-publications"
+    url: "/homepage/#-学术研究"
 
   - title: "荣誉奖项"
-    url: "/homepage/#-honors-and-awards"
+    url: "/homepage/#-荣誉奖项"
 
 
 
