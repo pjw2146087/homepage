@@ -34,29 +34,11 @@ redirect_from:
 
 <!-- # 🔥 News -->
 
-# 📝 Publications 
+# 📝 学术研究
 目前以第一作者/通讯作者身份发表了20+篇论文。（带#为导师，*为本人通讯）
+-  [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
-<div>
-    <span class="badge">CVPR 2016</span> 
-    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</a>, A, B, C, <strong>CVPR 2020</strong>
-</div>
-
-
-<div>
-    <span class="badge">CVPR 2016</span> 
-    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</a>, A, B, C, <strong>CVPR 2020</strong>
-</div>
-
-
-<div>
-    <span class="badge">CVPR 2016</span> 
-    <a href="https://github.com">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</a>, A, B, C, <strong>CVPR 2020</strong>
-</div>
-
-- <div class="badge">CVPR 2016</div> [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
-
-<div class="badge">CVPR 2016</div> - [W Zhai#, Z Xu, J Pan*, Z Guo, C Wu,A general image classification model for agricultural machinery trajectory mode recognition,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109629),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+- [W Zhai#, Z Xu, J Pan*, Z Guo, C Wu,A general image classification model for agricultural machinery trajectory mode recognition,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109629),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
 - [W Zhai#, Z Guo, J Pan*, J Xu, C Wu, Addressing local sparsity in massive agricultural machinery trajectories: A BiLSTM-GRU approach,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109376),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
@@ -109,14 +91,8 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* 云南省省政府奖学金. 
+- *2020.12* 一等学业奖学金. 
 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
