@@ -34,7 +34,7 @@ redirect_from:
 <!-- # 🔥 News -->
 
 # 📝 Publications 
-目前以第一作者/通讯作者身份发表了20+篇论文。（带#为导师，*为本人通讯）
+目前以第一作者/通讯作者身份发表了20+篇论文。
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="badge">CVPR 2016</div> - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 - [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
