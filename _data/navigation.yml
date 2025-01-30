@@ -9,16 +9,16 @@ main:
   - title: "教育背景"
     url: "/homepage/#-educations"
 
-  - title: "Publications"
+  - title: "学术研究"
     url: "/homepage/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "个人荣誉"
     url: "/homepage/#-honors-and-awards"
 
 
 
-  - title: "Invited Talks"
-    url: "/homepage/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/homepage/#-invited-talks"
 
-  - title: "Internships"
-    url: "/homepage/#-internships"
+  # - title: "Internships"
+  #   url: "/homepage/#-internships"
