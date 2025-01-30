@@ -6,14 +6,16 @@ main:
   # - title: "News"
   #   url: "/homepage/#-news"
 
+  - title: "教育背景"
+    url: "/homepage/#-educations"
+
   - title: "Publications"
     url: "/homepage/#-publications"
 
   - title: "Honors and Awards"
     url: "/homepage/#-honors-and-awards"
 
-  - title: "教育背景"
-    url: "/homepage/#-教育背景"
+
 
   - title: "Invited Talks"
     url: "/homepage/#-invited-talks"
