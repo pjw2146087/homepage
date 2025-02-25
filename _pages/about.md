@@ -38,7 +38,7 @@ redirect_from:
 目前以第一作者/通讯作者身份发表了20+篇论文。（带#为导师，*为本人通讯）
 -  [Zhai W#, Wu Y, Liu J,Pan J* et al. BiLSTM-SAGCN: a hybrid model of BiLSTM with a semiadaptation graph convolutional network for agricultural machinery trajectory operation mode identification[J]. Computers and Electronics in Agriculture, 2025, 230: 110193.](https://doi.org/10.1016/j.compag.2025.110193),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
--  [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
+-  [Zhai W#, Ni Z, Xu Z,Pan J* et al. T2R-pix2pix: A method for constructing rural thematic road network based on pix2pix[J]. Computers and Electronics in Agriculture, 2025, 230: 109911.](https://doi.org/10.1016/j.compag.2025.109911),(SCI,中科院一区,ESI 5%期刊,影响因子8.3,入选期刊推荐文章).
 
 - [W Zhai#, Z Xu, J Pan*, Z Guo, C Wu,A general image classification model for agricultural machinery trajectory mode recognition,Computers and Electronics in Agriculture.](https://doi.org/10.1016/j.compag.2024.109629),(SCI,中科院一区,ESI 5%期刊,影响因子8.3).
 
